@@ -1,0 +1,6 @@
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Release\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Release\Dominio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Release\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Release\Dominio.pdb

@@ -1,0 +1,36 @@
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\bin\Debug\Negocio.dll
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\bin\Debug\Negocio.pdb
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\bin\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\bin\Debug\Dominio.pdb
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\obj\Debug\Negocio.dll
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.dll
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.dll
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.pdb
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.dll
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Negocio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Debug\Dominio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Debug\Negocio.pdb

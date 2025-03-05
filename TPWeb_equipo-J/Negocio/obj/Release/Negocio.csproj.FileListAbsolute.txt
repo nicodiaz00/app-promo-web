@@ -1,0 +1,9 @@
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Release\Negocio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Release\Negocio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Release\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\bin\Release\Dominio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Release\Negocio.csproj.Up2Date
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Release\Negocio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Negocio\obj\Release\Negocio.pdb

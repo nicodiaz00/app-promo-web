@@ -1,0 +1,6 @@
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Release\Helper.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Release\Helper.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Release\Helper.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Release\Helper.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Release\Helper.pdb

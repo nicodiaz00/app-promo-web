@@ -1,0 +1,24 @@
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\bin\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\bin\Debug\Dominio.pdb
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\obj\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\experiencia-universidad\tp-web-equipo-j\TPWeb_equipo-j\Dominio\obj\Debug\Dominio.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.pdb
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.dll
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.dll
+C:\Users\ruben\OneDrive\Documentos\Cursos\Curso C# Exp Uni\RepoGithub\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\bin\Debug\Dominio.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Dominio\obj\Debug\Dominio.pdb

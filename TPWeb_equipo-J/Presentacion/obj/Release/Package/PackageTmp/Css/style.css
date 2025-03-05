@@ -1,0 +1,141 @@
+﻿
+body {
+    background-color: whitesmoke;
+}
+
+.filaMain {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+   
+}
+
+.contenedorMain {
+    
+    margin: 10px 0;
+    margin-top: 40px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+       
+}
+.colArticulo{
+    
+    display:flex;
+    justify-content:center;
+   
+    height:100%;
+    align-items:center;
+
+}
+.rowArticulo {
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.oculto{
+    display:none;
+}
+
+.contenedorArticulo {
+    
+    flex-grow: 1; /* Permite que se expanda dentro de un flexbox */
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    flex-direction: column;
+    height: 600px;
+    border-radius: 20px;
+}  
+.contenedorImg{
+    width:250px;
+    height:250px;
+    background-color:white;
+    display:flex;
+    border-radius:10px;
+}
+
+.imgArticulo {
+    width: 100%; /* Ocupar todo el ancho del contenedor */
+    height: 100%; /* Ocupar todo el alto del contenedor */
+    object-fit: contain; /* Ajusta la imagen sin recortar */
+    border-radius:10px;
+}
+
+.informacionArticulo {
+    height:250px;
+}
+
+.btnElegirArticulo {
+    padding: 10px;
+    text-align: center;
+}
+
+.contenedorDocumento {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+    .contenedorDocumento p {
+        margin-bottom: 15px;
+    }
+
+    .contenedorDocumento .form-control {
+        margin-bottom: 20px;
+    }
+
+.textoRojo {
+    color: red;
+    font-size: 10px;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn-cerrar-popup {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+}
+.contenedorExito {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content:center;
+    align-items:center;
+    height: 100%;
+}
+.rowExito{
+    display:flex;
+    height:100vh;
+}

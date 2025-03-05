@@ -1,0 +1,12 @@
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Debug\Helper.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Debug\Helper.pdb
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.dll
+C:\Users\ngdia\OneDrive\Documentos\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Debug\Helper.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\bin\Debug\Helper.pdb
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.dll
+C:\Users\nico\Documents\c#\tp-web-equipo-J\TPWeb_equipo-J\Helper\obj\Debug\Helper.pdb
